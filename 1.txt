@@ -1,0 +1,3 @@
+https://cdn.jsdelivr.net/gh/EasyDreams27/scripts/bd_noproxy.lua
+
+https://cdn.jsdelivr.net/gh/EasyDreams27/scripts/baidu_gd_direct_to_230518.lua
